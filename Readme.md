@@ -1,3 +1,5 @@
+## A 24 hour hackathon 
+
 ## OCR based loan application processing
 
 # Install dependencies
