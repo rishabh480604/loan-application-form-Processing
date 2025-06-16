@@ -1,4 +1,4 @@
-## A 24 hour hackathon 
+## A 48 hour hackathon 
 
 ## OCR based loan application processing
 
